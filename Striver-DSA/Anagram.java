@@ -19,3 +19,5 @@ public class Anagram
         return true;
     }
 }
+
+// Time Complexity: O(n)
