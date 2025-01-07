@@ -17,4 +17,10 @@ public class MaxStrings {
         }
         return maxLen;  
         }
+
+        // Time Complexity: O(n)
+        // Space Complexity: O(1)
+        // Output: 4
+        // Explanation: The longest substring without any repeating characters is "abcd"
+        // Hence, the length of the longest substring is 4
 }
