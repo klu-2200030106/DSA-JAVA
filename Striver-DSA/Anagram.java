@@ -21,3 +21,10 @@ public class Anagram
 }
 
 // Time Complexity: O(n)
+// Space Complexity: O(1)
+// n = length of the string
+// This is the optimal solution for this problem.
+// We can also use HashMap to solve this problem but that will take O(n) space.
+// So, this is the optimal solution.
+// This code is contributed by Striver
+// https://www.youtube.com/watch?v=3MwRGPPB4tw
